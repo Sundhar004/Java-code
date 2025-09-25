@@ -1,0 +1,217 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Single",
+            "request": "launch",
+            "mainClass": "Single",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayMissingElement",
+            "request": "launch",
+            "mainClass": "ArrayMissingElement",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "RotateSecondHalf",
+            "request": "launch",
+            "mainClass": "RotateSecondHalf",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayRotate",
+            "request": "launch",
+            "mainClass": "ArrayRotate",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "DelArray",
+            "request": "launch",
+            "mainClass": "DelArray",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "BinSearchDuplicate",
+            "request": "launch",
+            "mainClass": "BinSearchDuplicate",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "CheckForReverseArray",
+            "request": "launch",
+            "mainClass": "CheckForReverseArray",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "SmallestMissingPositive",
+            "request": "launch",
+            "mainClass": "SmallestMissingPositive",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayElemFreq",
+            "request": "launch",
+            "mainClass": "ArrayElemFreq",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "SortAscending",
+            "request": "launch",
+            "mainClass": "SortAscending",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "AvgArray",
+            "request": "launch",
+            "mainClass": "AvgArray",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "BinSearch",
+            "request": "launch",
+            "mainClass": "BinSearch",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "PrimeFunc",
+            "request": "launch",
+            "mainClass": "PrimeFunc",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "RemoveDuplicate",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "PatternAscending",
+            "request": "launch",
+            "mainClass": "PatternAscending",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNo",
+            "request": "launch",
+            "mainClass": "PrimeNo",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "KuprekarNum",
+            "request": "launch",
+            "mainClass": "KuprekarNum",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyOfDig",
+            "request": "launch",
+            "mainClass": "FrequencyOfDig",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "ApowerB",
+            "request": "launch",
+            "mainClass": "ApowerB",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "RevArray",
+            "request": "launch",
+            "mainClass": "RevArray",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "OneTwoUniqRow",
+            "request": "launch",
+            "mainClass": "OneTwoUniqRow",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "OneTwoRow",
+            "request": "launch",
+            "mainClass": "OneTwoRow",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BoxPattern",
+            "request": "launch",
+            "mainClass": "BoxPattern",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "Consecutive",
+            "request": "launch",
+            "mainClass": "Consecutive",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "IntegerRev",
+            "request": "launch",
+            "mainClass": "IntegerRev",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "SumofDig",
+            "request": "launch",
+            "mainClass": "SumofDig",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "longPalindrome",
+            "request": "launch",
+            "mainClass": "longPalindrome",
+            "projectName": "vs_leet_78e6a52a"
+        }
+    ]
+}
