@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LettersContainInBothString",
+            "request": "launch",
+            "mainClass": "LettersContainInBothString",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "CheckPalindrome",
+            "request": "launch",
+            "mainClass": "CheckPalindrome",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "EvenCapsOddSmall",
+            "request": "launch",
+            "mainClass": "EvenCapsOddSmall",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
             "name": "Single",
             "request": "launch",
             "mainClass": "Single",
