@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseWithoutinbuiltInString",
+            "request": "launch",
+            "mainClass": "ReverseWithoutinbuiltInString",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "LastIndexOfCharacter",
+            "request": "launch",
+            "mainClass": "LastIndexOfCharacter",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "WordCount",
+            "request": "launch",
+            "mainClass": "WordCount",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "CompStringWithoutInBuilt",
+            "request": "launch",
+            "mainClass": "CompStringWithoutInBuilt",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "VowelConsonant",
+            "request": "launch",
+            "mainClass": "VowelConsonant",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
+            "name": "StringCompression",
+            "request": "launch",
+            "mainClass": "StringCompression",
+            "projectName": "vs_leet_78e6a52a"
+        },
+        {
+            "type": "java",
             "name": "LettersContainInBothString",
             "request": "launch",
             "mainClass": "LettersContainInBothString",
